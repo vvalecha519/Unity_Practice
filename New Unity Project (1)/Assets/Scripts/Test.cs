@@ -10,7 +10,7 @@ public class Test : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody>();
-       // Destroy(gameObject, 3f);
+        // Destroy(gameObject, 3f);
     }
 
     // Update is called once per frame
@@ -33,5 +33,5 @@ public class Test : MonoBehaviour
         }
     }
 
- 
+
 }
