@@ -2,6 +2,7 @@
 
 # Unity
 /[Ll]ibrary/
+/Logs/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
